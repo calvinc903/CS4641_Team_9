@@ -1,6 +1,5 @@
 # CS4641_Team_9
 
-
-bundle install
-
-bundle exec jekyll serve
+## How to Run
+1. bundle install
+2. bundle exec jekyll serve
