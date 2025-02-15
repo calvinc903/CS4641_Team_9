@@ -1,5 +1,5 @@
 title: CS4641 Team 9
-theme: just-the-docs
+remote_theme: just-the-docs
 
 # Enable the sidebar navigation
 nav_sort: manual  # Ensure manual ordering
