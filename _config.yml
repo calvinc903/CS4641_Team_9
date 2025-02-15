@@ -1,1 +1,8 @@
+title: CS4641 Team 9
 theme: just-the-docs
+
+# Enable the sidebar navigation
+nav_sort: manual  # Ensure manual ordering
+
+# Define the navigation order
+nav_order: 1  # This sets the homepage as first

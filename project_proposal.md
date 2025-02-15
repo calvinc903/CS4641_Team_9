@@ -1,4 +1,9 @@
-# Team 9 Project Proposal
+---
+title: Project Proposal
+nav_order: 2
+---
+
+# Project Proposal
 
 ## Introduction/Background
 
