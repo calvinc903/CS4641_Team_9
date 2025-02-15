@@ -1,8 +1,5 @@
 title: CS4641 Team 9
 remote_theme: just-the-docs/just-the-docs
-
-# Enable the sidebar navigation
-nav_sort: manual  # Ensure manual ordering
-
-# Define the navigation order
-nav_order: 1  # This sets the homepage as first
+nav_sort: manual 
+nav_order: 1  
+baseurl: "/CS4641_Team_9"
