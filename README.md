@@ -6,4 +6,4 @@
 
 
 
-[Jekyll Documentation](https://just-the-docs.com/)
+[Just The Docs Documentation](https://just-the-docs.com/)
